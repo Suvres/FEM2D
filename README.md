@@ -7,3 +7,4 @@ FEM 2d - temperature interpolation
  $ php ./index.php
 ```
 * config in Data.php 
+* program can print to Paraview
